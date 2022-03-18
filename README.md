@@ -1,4 +1,4 @@
-<h1 align="center">Pokedex</h1>
+<h1 align="center">Pokedex (Dev em Dobro) </h1>
 
 <h2 align="center">Aqui estou aprendendo e melhorando as minhas habilidades com HTML, CSS e JS.</h2>
 
